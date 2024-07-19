@@ -22,6 +22,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/DevSantosRj/DevSantosRj)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devsantosrj)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/devsantosrjs-projects)
 
 ![DevSantosRj GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSantosRj&show_icons=true&theme=tokyonight)
 
