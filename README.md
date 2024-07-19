@@ -1,12 +1,15 @@
 ### Hi, I'm Marcos Santos ✌️
 ##### I'm Brazilian 🇧🇷 <br/> I'm a web developer and passionate about technological innovations and the crypto market. ₿
 
+### Connect with me
+
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nTFs2pVv)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 )](https://web.telegram.org/k/#@DevSantosRj)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsantosrj@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/DevSantosRj/DevSantosRj)
-
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devsantosrj)
 
 ![DevSantosRj GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSantosRj&show_icons=true&theme=tokyonight)
 
