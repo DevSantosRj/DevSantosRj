@@ -5,7 +5,6 @@
 #### About me
 - I'm Brazilian 🇧🇷
 - I'm currently studying web development
-- Next technologies I will learn 
 - I'm passionate about technological innovations and the cryptographic market. ₿
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="650px">
 
