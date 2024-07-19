@@ -13,7 +13,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Web3+Technical+Writer+✍️;⛓️+Blockchain+Enthusiast"alt="Currently Learning Solidity">
 </p>
-@DevSantosRj
 
 ### Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
